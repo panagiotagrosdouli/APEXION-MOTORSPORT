@@ -14,7 +14,8 @@ The bilingual English/Greek static website is in [index.html](index.html). It is
 - **Products:** A1, AERO, POWER and SIM concept research directions.
 - **Technology:** aerodynamics, vehicle dynamics and data intelligence.
 - **Roadmap:** a phased research-to-prototype pathway.
-- **Contact:** link to this GitHub repository.
+- **Careers:** future collaboration interest in engineering, aerodynamics and digital performance (no advertised vacancies).
+- **Contact:** FormSubmit-powered inquiries to the project inbox; activation requires email confirmation by the inbox owner.
 
 ### Publish with GitHub Pages
 
